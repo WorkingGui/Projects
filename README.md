@@ -17,4 +17,4 @@ I'm a BSc Computer Science student (First Class Honours, Expected 2028) at Oxfor
 * [c-cpp-algorithms](https://github.com/WorkingGui/c-cpp-algorithms) – Low-level data structures and memory management implementations.
 
 ---
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | ✉️ guidietinha@gmail.com[cite: 1]
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | ✉️ itsguimendes@gmail.com [cite: 1]
