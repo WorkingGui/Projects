@@ -1,0 +1,26 @@
+# Touro Brazilian Steakhouse – Commercial Web Platform Case Study
+
+> **Live Platform:** [touro.co.uk](https://touro.co.uk)[cite: 4]  
+> **Context:** Developed and deployed during my Web Developer & Systems Engineer internship at **Coletto Group LTD** (May 2026 – July 2026)[cite: 1].
+
+---
+
+## 🏗️ System Architecture & Infrastructure
+The platform was engineered to handle high user traffic spikes while maintaining strict security compliance and low-latency data rendering.
+* **Frontend Architecture:** Built using **React.js** and **TypeScript** with modular component design and asynchronous asset loading.
+* **Backend & Database:** Managed server-side logic via **Node.js** coupled with optimized **SQL** relational databases for fast data retrieval.
+* **Cloud Infrastructure:** Hosted and deployed on **AWS** utilizing secure routing, environment isolation, and high-availability configurations.
+
+---
+
+## ⚡ Performance Metrics & Impact
+By analyzing bottlenecks in the original pipeline, I introduced targeted optimizations that delivered quantifiable results:
+* **Front-End Optimization:** Restructured front-end bundles and implemented efficient rendering techniques, **reducing page load times by ~25%**[cite: 1].
+* **Backend Query Tuning:** Streamlined complex database query paths and service routes, **improving system processing and data retrieval efficiency by ~30%**[cite: 1].
+* **Infrastructure Reliability:** Maintained continuous uptime and secure data pathways through disciplined AWS administration[cite: 1].
+
+---
+
+## 🔄 Engineering Workflow & Collaboration
+* **Agile Sprints:** Participated in fast-paced startup sprints, daily stand-ups, and peer code reviews to align technical delivery with client business requirements[cite: 1].
+* **Version Control:** Maintained strict Git hygiene, utilizing feature branching, pull request reviews, and clean commit semantics.
