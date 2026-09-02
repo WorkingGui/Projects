@@ -5,7 +5,7 @@
 
 ---
 
-## 🏗️ System Architecture & Infrastructure
+## System Architecture & Infrastructure
 The platform was engineered to handle high user traffic spikes while maintaining strict security compliance and low-latency data rendering.
 * **Frontend Architecture:** Built using **React.js** and **TypeScript** with modular component design and asynchronous asset loading.
 * **Backend & Database:** Managed server-side logic via **Node.js** coupled with optimized **SQL** relational databases for fast data retrieval.
@@ -13,7 +13,7 @@ The platform was engineered to handle high user traffic spikes while maintaining
 
 ---
 
-## ⚡ Performance Metrics & Impact
+## Performance Metrics & Impact
 By analyzing bottlenecks in the original pipeline, I introduced targeted optimizations that delivered quantifiable results:
 * **Front-End Optimization:** Restructured front-end bundles and implemented efficient rendering techniques, **reducing page load times by ~25%**[cite: 1].
 * **Backend Query Tuning:** Streamlined complex database query paths and service routes, **improving system processing and data retrieval efficiency by ~30%**[cite: 1].
@@ -21,6 +21,6 @@ By analyzing bottlenecks in the original pipeline, I introduced targeted optimiz
 
 ---
 
-## 🔄 Engineering Workflow & Collaboration
+## Engineering Workflow & Collaboration
 * **Agile Sprints:** Participated in fast-paced startup sprints, daily stand-ups, and peer code reviews to align technical delivery with client business requirements[cite: 1].
 * **Version Control:** Maintained strict Git hygiene, utilizing feature branching, pull request reviews, and clean commit semantics.
