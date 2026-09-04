@@ -11,10 +11,9 @@ I'm a BSc Computer Science student (First Class Honours, Expected 2028) at Oxfor
 * **Software Team @ OBR Formula Student:** Engineered backend data architecture for a resource management tool automating inventory tracking for 700+ engineers, while developing 10+ reusable React.js UI components[cite: 1].
 
 #### 📂 Featured Repositories
-* [touro-website-case-study](https://github.com/WorkingGui/touro-website-case-study) – Architectural deep-dive into commercial full-stack optimization and cloud deployment.
-* [decision-tree-classifier](https://github.com/WorkingGui/decision-tree-classifier) – From-scratch implementation of Gini impurity-based decision trees vs. scikit-learn on the Car Evaluation dataset.
-* [network-simulation-lab](https://github.com/WorkingGui/network-simulation-lab) – Multi-segment LAN and custom IP subnetting topologies configured in Cisco Packet Tracer.
-* [c-cpp-algorithms](https://github.com/WorkingGui/c-cpp-algorithms) – Low-level data structures and memory management implementations.
-
+* [touro-website-case-study]([https://github.com/WorkingGui/touro-website-case-study](https://github.com/WorkingGui/Projects/blob/main/touro-website-case-study)) – Architectural deep-dive into commercial full-stack optimization and cloud deployment.
+* [decision-tree-classifier]([https://github.com/WorkingGui/decision-tree-classifier](https://github.com/WorkingGui/Projects/blob/main/Decision%20Tree%20Classifier.pdf)) – From-scratch implementation of Gini impurity-based decision trees vs. scikit-learn on the Car Evaluation dataset.
+* [network-simulation-lab]([https://github.com/WorkingGui/network-simulation-lab](https://github.com/WorkingGui/Projects/blob/main/CISCO%20Networking.pdf)) – Multi-segment LAN and custom IP subnetting topologies configured in Cisco Packet Tracer.
+* [Analysing Scrum Agile Methodologies]([https://github.com/WorkingGui/c-cpp-algorithms](https://github.com/WorkingGui/Projects/blob/main/Analysing%20Scrum%20Agile%20Methodologies.pdf)) – Seeking the Ideal Project Methodology as a team.
 ---
 📫 **Connect with me:** [linkedin.com/in/guilherme-mendes-aa4a6a398](https://www.linkedin.com/in/guilherme-mendes-aa4a6a398/) | ✉️ itsguimendes@gmail.com
